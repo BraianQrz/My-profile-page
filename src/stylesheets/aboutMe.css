@@ -1,0 +1,91 @@
+.container-aboutme {
+    box-shadow: 0px 0px 6px 0px rgba(158, 149, 149, 0.455);
+    min-height: 55vh;
+    padding: 34px;
+    background-color: white;
+    margin: 34px 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.aboutme-tittle {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #222239;
+}
+.container-aboutme-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 34px;
+}
+
+.Aboutme-img {
+    border-radius: 13px;
+    max-height: 13rem;
+}
+.aboutme-p {
+    padding-left: 34px;
+    color: #666666;
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 34px;
+    margin-bottom: 21px;
+}
+
+.aboutme-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    border: 2px solid #222239;
+    background-color: transparent;
+    color: #222239;
+    border-radius: 3em;
+    width: 13rem;
+    height: 3rem;
+    font-size: 1rem;
+    font-weight: 700;
+}
+.aboutme-btn:hover {
+    background-color: #222239;
+    color: white;
+    border: 3px solid white;
+    cursor: pointer;
+}
+
+@media all and (max-width: 768px) {
+    .container-aboutme {
+        padding: 8px 0px;
+        margin: 21px 21px;
+    }
+    .aboutme-tittle {
+        font-size: 2rem;
+    }
+    
+    .Aboutme-img {
+        display:none;
+    }
+    .aboutme-p {
+        padding: 0px;
+        margin: 8px;
+    }
+    
+    .aboutme-btn {
+        border:none;
+        background-color: #222239;
+        color: white;
+        border-radius: 3em;
+        width: 13rem;
+        height: 3rem;
+        font-size: 1rem;
+        font-weight: 700;
+    }
+    .aboutme-btn:hover {
+        background-color: #222239;
+        color: white;
+        border: 3px solid white;
+        cursor: pointer;}
+    }
