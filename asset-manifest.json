@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My-profile-page/static/css/main.e5fa4798.css",
+    "main.js": "/My-profile-page/static/js/main.a8658943.js",
+    "static/media/pres.png": "/My-profile-page/static/media/pres.a472447492da22c80246.png",
+    "static/media/me.jpg": "/My-profile-page/static/media/me.a05acc8438c0be4d81ec.jpg",
+    "static/media/CV.pdf": "/My-profile-page/static/media/CV.5742a9f7bf5aa7251f9f.pdf",
+    "static/media/wsp png.png": "/My-profile-page/static/media/wsp png.57e60658a110dbeffa60.png",
+    "static/media/Python_icon.png": "/My-profile-page/static/media/Python_icon.17636d0a6b11a7f3f24e.png",
+    "static/media/mysql.png": "/My-profile-page/static/media/mysql.39b9056d0ebafefdb153.png",
+    "static/media/HTML5_logo_black.png": "/My-profile-page/static/media/HTML5_logo_black.d3331808ef3fe6e57c62.png",
+    "static/media/istockphoto-500425531-612x612.jpg": "/My-profile-page/static/media/istockphoto-500425531-612x612.7e78df87b5bc5d8fcdb2.jpg",
+    "static/media/react png.png": "/My-profile-page/static/media/react png.faf9067b4d92e43c4bfd.png",
+    "static/media/sass icon.png": "/My-profile-page/static/media/sass icon.c5bd589ed442ad461d6f.png",
+    "static/media/html icon.png": "/My-profile-page/static/media/html icon.09ae3bcb967dbe2395ac.png",
+    "static/media/javascript img.png": "/My-profile-page/static/media/javascript img.00fe1f380d5fdb3dcd7c.png",
+    "index.html": "/My-profile-page/index.html",
+    "main.e5fa4798.css.map": "/My-profile-page/static/css/main.e5fa4798.css.map",
+    "main.a8658943.js.map": "/My-profile-page/static/js/main.a8658943.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5fa4798.css",
+    "static/js/main.a8658943.js"
+  ]
+}
