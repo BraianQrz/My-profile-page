@@ -13,10 +13,12 @@
     height:100%;
     position: absolute;
     z-index:0;
-    object-fit:none;
+    object-fit:cover;
 }
 
 .container-welcome-text{
+    width: 100%;
+    background-color: rgba(49, 58, 93, 0.749);
     font-family: 'Montserrat', sans-serif;
     color: white;
     padding: 34px 89px;
@@ -25,7 +27,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: rgba(49, 58, 93, 0.749);
+
 }
 .welcome-tittle{    
     font-size: 3rem;
