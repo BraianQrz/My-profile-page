@@ -4,7 +4,7 @@ export default Contacto
 
 function Contacto() {
   return (
-    <div className='contact-container'>
+    <div className='contact-container' id='contact'>
       <h1 className='contact-tittle'>Contacto</h1>
       <div className='contact-data-form-container'>
         <div className='contact-data-container'>

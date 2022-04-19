@@ -3,7 +3,7 @@ export default Welcome
 
 function Welcome() {
   return (
-    <div className='container-welcome'>
+    <div className='container-welcome' id ='welcome'>
       <img
         className='welcome-img'
         src={require('../img/pres.png')}
