@@ -10,7 +10,7 @@ function Header() {
         <ul className='nav-list'>
           <li className='nav-li'><a href="#welcome"  className='nav-a'>Inicio</a></li>
           <li className='nav-li'><a href="#aboutMe"  className='nav-a'>Sobre mi</a></li>
-          <li className='nav-li'><a href="#"  className='nav-a'>Mis Proyectos</a></li>
+          <li className='nav-li'><a href="https://github.com/BraianQrz/My-proyects"  className='nav-a'>Mis Proyectos</a></li>
           <li className='nav-li'><a href="#contact"  className='nav-a'>Contacto</a></li>
         </ul>
       </nav>
